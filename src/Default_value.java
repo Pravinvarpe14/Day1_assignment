@@ -8,7 +8,7 @@ public class Default_value {
 	   static long e;
 	   static short f;
 	
-	public static void main(String[] args) {
+	        public static void main(String[] args) {
 		
 		    System.out.println("Default value");
 	    	System.out.println("int = " + a);
