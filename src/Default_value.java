@@ -7,6 +7,8 @@ public class Default_value {
 	   static boolean d;
 	   static long e;
 	   static short f;
+	   static byte g;
+	   static char h;
 	
 	        public static void main(String[] args) {
 		
@@ -17,6 +19,8 @@ public class Default_value {
 	        System.out.println("boolean = " + d);
 	        System.out.println("long = " + e);
 	        System.out.println("short = " + f);
+	        System.out.println("byte = " + g);
+	        System.out.println("char = " + h);
 		
 		   
 
