@@ -10,7 +10,7 @@ public class String_comparision {
 			System.out.println("Two string are equal");
 		}
 		else {
-			System.out.println("Two string are equal");
+			System.out.println("Two string are not equal");
 				
 		}
 			
