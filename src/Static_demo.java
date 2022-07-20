@@ -5,18 +5,16 @@ public class Static_demo {
 	 * defining static variables
 	 */
 	static int a = 10;
-	static long b = 20;
+	static int b = 20;
 
 	/**
-	 * 
 	 * defining static method
 	 */
 	static void display() {
 		System.out.println("Static method");
 	}
 
-	/**
-	 * 
+	/** 
 	 * static block
 	 */
 	static {
